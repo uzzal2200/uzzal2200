@@ -57,12 +57,13 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uzzal2200&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzzal2200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=uzzal2200&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzzal2200&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
 
 ---
 
@@ -73,8 +74,7 @@
 
 ### 🏆 Goals for 2025
 - ✅ Master LLM fine-tuning & deployment
-- ✅ Publish a research paper in **AI / Computer Vision**
-- ✅ Build and deploy 3 production-level ML apps
+- ✅ Build and deploy 25 production-level ML apps
 - ✅ Contribute to open-source AI projects
 
 ---
