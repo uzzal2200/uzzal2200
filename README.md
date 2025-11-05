@@ -48,7 +48,7 @@
 ---
 
 ### 🧰 Languages and Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,seaborn,flask,django,html,css,js,php,mysql,mongodb,git,vscode,c,cpp&perline=18" />
 </p>
 
