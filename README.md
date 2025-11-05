@@ -10,11 +10,12 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me  
 
-💡 I’m an **AI Engineer** passionate about solving real-world problems using **Machine Learning, Deep Learning, and Generative AI**.
-🎯 My focus is on **LLM fine-tuning**, **Computer Vision**, and **MLOps** for scalable AI deployment.
-🌍 Open to collaborations on **AI research**, **computer vision**, and **LLM-based systems**.
+💡 I’m an **aspiring AI Engineer** passionate about solving real-world problems using **Machine Learning, Deep Learning, and Generative AI**.  
+🎯 My current focus is on **LLM fine-tuning**, **Computer Vision**, and **MLOps**, as I work towards becoming a skilled AI Engineer.  
+🌍 I’m open to collaborations on **AI research**, **computer vision**, and **LLM-based systems** to gain more practical experience.  
+
 
 ---
 
