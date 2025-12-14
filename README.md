@@ -19,7 +19,7 @@
 
 ---
 
-### 🔬 I have learned:
+### 🔬 Learning:
 - 🧠 Deep Learning (CNNs, RNNs, Transformers)
 - 🤖 Machine Learning (Supervised, Unsupervised)
 - 👁️ Computer Vision (Object Detection, Segmentation)
